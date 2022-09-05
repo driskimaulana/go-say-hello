@@ -1,3 +1,3 @@
-module github.com/driskimaulana/go-say-hello.git
+module github.com/driskimaulana/go-say-hello
 
 go 1.19
